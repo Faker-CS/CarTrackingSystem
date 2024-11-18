@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.Domain.csproj.CoreCompileInputs.cache

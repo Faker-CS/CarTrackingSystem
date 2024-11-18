@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel.Core" Version="2.2.0" />
+    <PackageReference Include="MySqlConnector" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CarTrackingSystem">
+      <HintPath>..\CarTrackingSystem\bin\Debug\net8.0\CarTrackingSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="CarTrakingInfrastructure">
+      <HintPath>..\CarTrakingInfrasructure\bin\Debug\net8.0\CarTrakingInfrastructure.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

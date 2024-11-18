@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\bin\Debug\net8.0\CarTrackingSystem.deps.json
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\bin\Debug\net8.0\CarTrackingSystem.dll
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\bin\Debug\net8.0\CarTrackingSystem.pdb
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.dll
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\refint\CarTrackingSystem.dll
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\CarTrackingSystem.pdb
+C:\Users\ASUS\source\repos\CarTranckingSystem\CarTrackingSystem\obj\Debug\net8.0\ref\CarTrackingSystem.dll

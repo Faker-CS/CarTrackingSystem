@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarTrackingSystem\CarTrackingDomain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CarTrackingSystem">
+      <HintPath>..\CarTrackingSystem\bin\Debug\net8.0\CarTrackingSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="CarTrakingInfrastructure">
+      <HintPath>..\CarTrakingInfrasructure\bin\Debug\net8.0\CarTrakingInfrastructure.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

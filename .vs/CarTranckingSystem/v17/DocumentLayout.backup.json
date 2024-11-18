@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE20A3F-063E-4501-AD54-9DB1B775FD9E}|CarSimulator\\CarSimulator.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\carsimulator\\business\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE20A3F-063E-4501-AD54-9DB1B775FD9E}|CarSimulator\\CarSimulator.csproj|solutionrelative:carsimulator\\business\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855669B9-4C72-4439-A899-D30656BB9789}|CarTracker\\CarTracker.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855669B9-4C72-4439-A899-D30656BB9789}|CarTracker\\CarTracker.csproj|solutionrelative:cartracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855669B9-4C72-4439-A899-D30656BB9789}|CarTracker\\CarTracker.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartracker\\business\\cartracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855669B9-4C72-4439-A899-D30656BB9789}|CarTracker\\CarTracker.csproj|solutionrelative:cartracker\\business\\cartracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrastructure.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrakinginfrasructure\\infrastructure\\daocarposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrastructure.csproj|solutionrelative:cartrakinginfrasructure\\infrastructure\\daocarposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrastructure.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrakinginfrasructure\\infrastructure\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrastructure.csproj|solutionrelative:cartrakinginfrasructure\\infrastructure\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrackingsystem\\domain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|solutionrelative:cartrackingsystem\\domain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrackingsystem\\domain\\dtostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|solutionrelative:cartrackingsystem\\domain\\dtostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrackingsystem\\domain\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|solutionrelative:cartrackingsystem\\domain\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrackingsystem\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingSystem.csproj|solutionrelative:cartrackingsystem\\domain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrasructure.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrakinginfrasructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B084F0F-B377-474C-A2C6-C5D2AFC3ADBC}|CarTrakingInfrasructure\\CarTrakingInfrasructure.csproj|solutionrelative:cartrakinginfrasructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingDomain.csproj|c:\\users\\asus\\source\\repos\\cartranckingsystem\\cartrackingsystem\\cartrackingdomain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9F56E31F-3CA3-43E8-936E-0C4CA6448F30}|CarTrackingSystem\\CarTrackingDomain.csproj|solutionrelative:cartrackingsystem\\cartrackingdomain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DaoCarPosition.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Infrastructure\\DaoCarPosition.cs",
+              "RelativeDocumentMoniker": "CarTrakingInfrasructure\\Infrastructure\\DaoCarPosition.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Infrastructure\\DaoCarPosition.cs",
+              "RelativeToolTip": "CarTrakingInfrasructure\\Infrastructure\\DaoCarPosition.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:14:19.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarTracking.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTracker\\Business\\CarTracking.cs",
+              "RelativeDocumentMoniker": "CarTracker\\Business\\CarTracking.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTracker\\Business\\CarTracking.cs",
+              "RelativeToolTip": "CarTracker\\Business\\CarTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T20:29:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOstock.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\DTOstock.cs",
+              "RelativeDocumentMoniker": "CarTrackingSystem\\Domain\\DTOstock.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\DTOstock.cs",
+              "RelativeToolTip": "CarTrackingSystem\\Domain\\DTOstock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:36:17.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\IDao.cs",
+              "RelativeDocumentMoniker": "CarTrackingSystem\\Domain\\IDao.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\IDao.cs",
+              "RelativeToolTip": "CarTrackingSystem\\Domain\\IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:36:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Infrastructure\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "CarTrakingInfrasructure\\Infrastructure\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Infrastructure\\ConnectionManager.cs",
+              "RelativeToolTip": "CarTrakingInfrasructure\\Infrastructure\\ConnectionManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:14:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTracker\\Program.cs",
+              "RelativeDocumentMoniker": "CarTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTracker\\Program.cs",
+              "RelativeToolTip": "CarTracker\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:20:34.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarSimulator\\Business\\CarManagement.cs",
+              "RelativeDocumentMoniker": "CarSimulator\\Business\\CarManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarSimulator\\Business\\CarManagement.cs",
+              "RelativeToolTip": "CarSimulator\\Business\\CarManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:10:21.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\Position.cs",
+              "RelativeDocumentMoniker": "CarTrackingSystem\\Domain\\Position.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\Position.cs",
+              "RelativeToolTip": "CarTrackingSystem\\Domain\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:36:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\Car.cs",
+              "RelativeDocumentMoniker": "CarTrackingSystem\\Domain\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\Domain\\Car.cs",
+              "RelativeToolTip": "CarTrackingSystem\\Domain\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:36:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Class1.cs",
+              "RelativeDocumentMoniker": "CarTrakingInfrasructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrakingInfrasructure\\Class1.cs",
+              "RelativeToolTip": "CarTrakingInfrasructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:13:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarTrackingSystem",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\CarTrackingDomain.csproj",
+              "RelativeDocumentMoniker": "CarTrackingSystem\\CarTrackingDomain.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarTranckingSystem\\CarTrackingSystem\\CarTrackingDomain.csproj",
+              "RelativeToolTip": "CarTrackingSystem\\CarTrackingDomain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T22:34:32.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
